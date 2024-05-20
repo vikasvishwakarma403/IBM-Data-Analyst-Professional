@@ -14,7 +14,7 @@ Power your data analyst career by learning the core principles of data analysis 
 ## 🥇 [Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/79MTZSS6M3TD?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=prof)
 
 <p align="center">
-<img src="https://www.coursera.org/account/accomplishments/professional-cert/79MTZSS6M3TD.png" width=70% height=70%>
+<img src="Certificates/Coursera 79MTZSS6M3TD.jpg" width=80% height=80%>
 
 ---
 
@@ -27,14 +27,14 @@ There are 9 Courses in this Professional Certificate Specialization are as follo
 This course presents a gentle introduction into the concepts of data analysis, the role of a Data Analyst, and the tools that are used to perform daily functions. You will gain an understanding of the data ecosystem and the fundamentals of data analysis, such as data gathering or data mining.
 
 <p align="center">
-<img src="/certificate/Introduction to Data Analytics-1.png" width=60% height=60%>
+<img src="Certificates/Coursera RZ68R5K8VP5R-1.jpg" width=60% height=60%>
 
 - [x] [__Excel Basics for Data Analysis__](https://www.coursera.org/account/accomplishments/verify/VANXUCQJ8EW9)
 
 This course is designed to provide you with basic working knowledge for using Excel spreadsheets for Data Analysis. It covers some of the first steps for working with spreadsheets and their usage in the process of analyzing data.  It includes plenty of videos, demos, and examples for you to learn, followed by step-by-step instructions for you to apply and practice on a live spreadsheet.
 
 <p align="center">
-<img src="/certificate/Excel Basics for Data Analysis-1.png" width=60% height=60%>
+<img src="Certificates/Coursera VANXUCQJ8EW9-2.jpg" width=60% height=60%>
 
 
 - [X] [__Data Visualization and Dashboards with Excel and Cognos__ ](https://www.coursera.org/account/accomplishments/verify/28YLUVTTTE66)
@@ -42,28 +42,28 @@ This course is designed to provide you with basic working knowledge for using Ex
 This course covers some of the first steps in the development of data visualizations using spreadsheets and dashboards. 
 
 <p align="center">
-<img src="/certificate/Data Visualization and Dashboards with Excel and-1.png" width=60% height=60%>
+<img src="Certificates/Coursera 28YLUVTTTE66-3.jpg" width=60% height=60%>
 
 - [x] [__Python for Data Science and AI & Development__](https://www.coursera.org/account/accomplishments/verify/QKS5BFV2RMXJ)
 
 Kickstart your learning of Python for data science, as well as programming in general, with this beginner-friendly introduction to Python. Python is one of the world’s most popular programming languages, and there has never been greater demand for professionals with the ability to apply Python fundamentals to drive business solutions across industries. 
 
 <p align="center">
-<img src="/certificate/Python for Data Science, AI & Development-1.png" width=60% height=60%>
+<img src="Certificates/Coursera QKS5BFV2RMXJ-4.jpg" width=60% height=60%>
 
 - [X] [__Python Project for Data Science__](https://www.coursera.org/account/accomplishments/verify/X3ZULMA7XDDF)
 
 This mini-course is intended to for you to demonstrate foundational Python skills for working with data. The completion of this course involves working on a hands-on project where you will develop a simple dashboard using Python.
 
 <p align="center">
-<img src="/certificate/Python Project for Data Science-1.png" width=60% height=60%>
+<img src="Certificates/Coursera X3ZULMA7XDDF-5.jpg" width=60% height=60%>
 
 - [x] [__Databases and SQL for Data Science__](https://www.coursera.org/account/accomplishments/verify/DGLK7R9XRSSW)
 
 The purpose of this course is to introduce relational database concepts and help you learn and apply foundational knowledge of the SQL language. It is also intended to get you started with performing SQL access in a data science environment.  
 
 <p align="center">
-<img src="/certificate/Databases and SQL for Data Science with Python-1.png" width=60% height=60%>
+<img src="Certificates/Coursera DGLK7R9XRSSW-6.jpg" width=60% height=60%>
 
 - [x] [__Data Analysis with Python__](https://www.coursera.org/account/accomplishments/verify/TYD75BY4X8RP)
 
@@ -77,21 +77,21 @@ Learn how to analyze data using Python. Topics covered:
 6) Building data pipelines
 
 <p align="center">
-<img src="/certificate/Data Analysis with Python-1.png" width=60% height=60%>
+<img src="Certificates/Coursera TYD75BY4X8RP-7.jpg" width=60% height=60%>
 
 - [x] [__Data Visualization with Python__](https://www.coursera.org/account/accomplishments/verify/RXVERLL8XDEV)
 
 The main goal of this Data Visualization with Python course is to teach you how to take data that at first glance has little meaning and present that data in a form that makes sense to people. Various techniques have been developed for presenting data visually but in this course, we will be using several data visualization libraries in Python, namely Matplotlib, Seaborn, and Folium.
 
 <p align="center">
-<img src="/certificate/Data Visualization with Python-1.png" width=60% height=60%>
+<img src="Certificates/Coursera RXVERLL8XDEV-8.jpg" width=60% height=60%>
 
 - [x] [__IBM Data Analyst Capstone Project__](https://www.coursera.org/account/accomplishments/verify/DQF5Y96V6TSZ)
 
 In this course you will apply various Data Analytics skills and techniques that you have learned as part of the previous courses in the IBM Data Analyst Professional Certificate. You will assume the role of an Associate Data Analyst who has recently joined the organization and be presented with a business challenge that requires data analysis to be performed on real-world datasets. 
 
 <p align="center">
-<img src="/certificate/IBM Data Analyst Capstone Project-1.png" width=60% height=60%>
+<img src="Certificates/Coursera DQF5Y96V6TSZ-9.jpg" width=60% height=60%>
 
 ---
 <p>&copy; 2021 Leah Nguyen</p>
