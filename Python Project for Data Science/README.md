@@ -60,3 +60,27 @@ Extracting essential data from a dataset and displaying it is a necessary part o
 !pip install bs4
 !pip install plotly
 ```
+## Solutions
+<p align="center">
+  <img width="100%" height="100%" src="https://github.com/vikasvishwakarma403/IBM-Data-Analyst-Professional/blob/main/Python%20Project%20for%20Data%20Science/Img/Q1.PNG">
+</p>
+
+<p align="center">
+  <img width="100%" height="100%" src="https://github.com/vikasvishwakarma403/IBM-Data-Analyst-Professional/blob/main/Python%20Project%20for%20Data%20Science/Img/Q2.PNG">
+</p>
+
+<p align="center">
+  <img width="100%" height="100%" src="https://github.com/vikasvishwakarma403/IBM-Data-Analyst-Professional/blob/main/Python%20Project%20for%20Data%20Science/Img/Q3.PNG">
+</p>
+
+<p align="center">
+  <img width="100%" height="100%" src="https://github.com/vikasvishwakarma403/IBM-Data-Analyst-Professional/blob/main/Python%20Project%20for%20Data%20Science/Img/Q4.PNG">
+</p>
+
+<p align="center">
+  <img width="100%" height="100%" src="https://github.com/vikasvishwakarma403/IBM-Data-Analyst-Professional/blob/main/Python%20Project%20for%20Data%20Science/Img/Q5.PNG">
+</p>
+
+<p align="center">
+  <img width="100%" height="100%" src="https://github.com/vikasvishwakarma403/IBM-Data-Analyst-Professional/blob/main/Python%20Project%20for%20Data%20Science/Img/Q6.PNG">
+</p>
